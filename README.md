@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hey I'm sute 👋</h1>
+<h2 align="center">abusing requests since '20</h2>
 
-<!--
-**xSute/xSute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="https://discord.c99.nl/widget/theme-1/788840668654338080.png"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![sute's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSute&show_icons=true&theme=radical)
+</div>
+
+## About
+I'm verlox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+
+## What I'm currently working on
+* Autofarmer for Growtopia
+* Osu! Cheat
+
+## Languages I know
+* C#
+* c++ (working on it)
+* Python
+
+## Goals
+* Learn C++
+
+
+## Links
+* [Site](https://www.lunafarm.app/)
+
+
+## Disclaimer
+All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.

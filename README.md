@@ -26,8 +26,8 @@ I'm sute and I typically work with C# and NodeJS. I started learning how to code
 
 
 ## Links
-* [Site](https://www.itami.wtf)
-* [Site](https://www.thighpics.wtf)
+* [Itami](https://www.itami.wtf)
+* [ThighPics](https://www.thighpics.wtf)
 
 
 ## Disclaimer

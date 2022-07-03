@@ -24,8 +24,7 @@ I'm sute and I typically work with C#. I started learning how to code about 2016
 
 
 ## Links
-* [Itami](https://www.itami.wtf)
-* [ThighPics](https://www.thighpics.wtf)
+* [Claritycheat.wtf](https://www.claritycheat.wtf)
 
 
 ## Disclaimer

@@ -12,9 +12,7 @@
 I'm sute and I typically work with C#. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 
 ## What I'm currently working on
-* Autofarmer for Growtopia
-* Osu! Cheat
-* Roblox Hub
+* Nothing public
 
 ## Languages I know
 * C#
